@@ -2,6 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/image/back_class_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/Epsilon2.1.2048/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/Epsilon2.1.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/Epsilon2.1.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/Epsilon2.1.physics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f01.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f02.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f03.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f04.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f05.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f06.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f07.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/expressions/f08.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_idle_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_05.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_06.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_07.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_08.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_sp_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_sp_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_sp_03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_sp_04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_m_sp_05.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/Epsilon2.1/motions/Epsilon2.1_shake_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f01.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f02.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f03.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f04.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f05.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f06.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f07.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/expressions/f08.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru.physics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru.pose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_01.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_01.1024/texture_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_01.1024/texture_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_01.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_01.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_02.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_02.1024/texture_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_02.1024/texture_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_02.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/haru_02.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/flickHead_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/idle_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/idle_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/idle_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/pinchIn_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/pinchOut_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/shake_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_05.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_06.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_07.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_08.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/motions/tapBody_09.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/flickHead_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/pinchIn_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/pinchOut_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/shake_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/tapBody_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/tapBody_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/haru/sounds/tapBody_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/hijiki.2048/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/hijiki.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/hijiki.pose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/hujiki.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/00_idle.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/05.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/06.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/07.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/hijiki/motions/08.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/expressions/f01.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/expressions/f02.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/expressions/f03.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/expressions/f04.exp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/flickHead_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/flickHead_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/flickHead_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/idle_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/idle_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/idle_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchIn_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchIn_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchIn_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchOut_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchOut_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/pinchOut_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/shake_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/shake_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/shake_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/tapBody_00.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/tapBody_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/motions/tapBody_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.1024/texture_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.physics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/shizuku.pose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/flickHead_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/flickHead_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/flickHead_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchIn_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchIn_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchIn_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchOut_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchOut_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/pinchOut_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/shake_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/shake_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/shake_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/tapBody_00.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/tapBody_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/shizuku/sounds/tapBody_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/idle_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/idle_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/idle_03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/idle_04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/shake_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/shake_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_01.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_02.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_03.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_04.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_05.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/motions/touch_06.mtn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/wanko.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/wanko.moc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/live2d/wanko/wanko.model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/Live2DFramework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/live2d.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAppDefine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAppLive2DManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAppModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlatformManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleApp1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/MatrixStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ModelSettingJson.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,14 +177,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="78" column="85" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
+            <state relative-caret-position="165">
+              <caret line="544" column="71" selection-start-line="544" selection-start-column="71" selection-end-line="544" selection-end-column="71" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,6 +194,7 @@
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,72 +204,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sadasdsacasca.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/project/sadasdsacasca.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/chat_widget/config.js">
+      <file leaf-file-name="LAppDefine.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LAppDefine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="229">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frame.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/chat_widget/frame.css">
+      <file leaf-file-name="SampleApp1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SampleApp1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="113" column="14" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reply.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/chat_widget/reply.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/chat_widget/setup.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/chat_widget/input.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-945">
-              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bubbles.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/chat_widget/Bubbles.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2025">
-              <caret line="135" column="20" lean-forward="true" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+            <state relative-caret-position="859">
+              <caret line="118" column="3" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mdb.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.css">
+      <file leaf-file-name="LAppLive2DManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LAppLive2DManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            <state relative-caret-position="223">
+              <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -140,6 +257,12 @@
       <find>bubble</find>
       <find>custom-border</find>
       <find>Project</find>
+      <find>changeModel</find>
+      <find>LAppModel</find>
+      <find>LAppLive2DManager</find>
+      <find>live2DMgr</find>
+      <find>setDrag</find>
+      <find>btnChange</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,6 +283,12 @@
         <option value="$PROJECT_DIR$/css/chat_widget/input.css" />
         <option value="$PROJECT_DIR$/js/chat_widget/config.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/js/live2d/SampleApp1.js" />
+        <option value="$PROJECT_DIR$/js/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/sampleApp1/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/src/SampleApp1.js" />
+        <option value="$PROJECT_DIR$/src/LAppLive2DManager.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -173,10 +302,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="848" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="837" />
     <option name="y" value="23" />
-    <option name="width" value="832" />
+    <option name="width" value="843" />
     <option name="height" value="981" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -195,7 +324,7 @@
             <path>
               <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal_website" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,19 +341,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/chat_widget" />
-      <recent name="$PROJECT_DIR$/css/chat_widget" />
-      <recent name="$PROJECT_DIR$/js/chat_widget" />
-      <recent name="$PROJECT_DIR$/js/particles" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js/live2d" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/svg" />
       <recent name="$PROJECT_DIR$/img/project" />
       <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$/css/mdbootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/js/live2d" />
+      <recent name="$PROJECT_DIR$/img/chat_widget" />
+      <recent name="$PROJECT_DIR$/css/chat_widget" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,10 +368,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="SampleApp1.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/personal_website/js/SampleApp1.html" />
+    <configuration name="SampleApp1.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/personal_website/sampleApp1/SampleApp1.html" />
+    <configuration name="SampleApp1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/personal_website/SampleApp1.html" />
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/personal_website/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal_website/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.SampleApp1.html" />
+      <item itemvalue="JavaScript Debug.SampleApp1.html (1)" />
+      <item itemvalue="JavaScript Debug.SampleApp1.html (2)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.SampleApp1.html" />
+        <item itemvalue="JavaScript Debug.SampleApp1.html (2)" />
+        <item itemvalue="JavaScript Debug.SampleApp1.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -262,26 +406,26 @@
       <workItem from="1533712809128" duration="3084000" />
       <workItem from="1533973978548" duration="6672000" />
       <workItem from="1534134624391" duration="3149000" />
-      <workItem from="1534143269673" duration="29924000" />
+      <workItem from="1534143269673" duration="37829000" />
+      <workItem from="1535600559304" duration="3623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46629000" />
+    <option name="totallyTimeSpent" value="58157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="848" y="23" width="832" height="981" extended-state="0" />
+    <frame x="837" y="23" width="843" height="981" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26263872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25547445" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14400922" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.14366516" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,6 +434,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,173 +444,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7215">
-          <caret line="481" column="28" selection-start-line="481" selection-start-column="28" selection-end-line="481" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#section#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261165">
-          <caret line="17411" selection-start-line="17411" selection-end-line="17411" />
-          <folding>
-            <element signature="e#217066#217309#2" expanded="true" />
-            <element signature="e#219078#219327#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#75129#75329#2" expanded="true" />
-            <element signature="e#75559#75708#2" expanded="true" />
-            <element signature="e#76271#76417#2" expanded="true" />
-            <element signature="e#76773#76939#1" expanded="true" />
-            <element signature="e#90065#90308#2" expanded="true" />
-            <element signature="e#91320#91569#2" expanded="true" />
-            <element signature="e#123025#123215#2" expanded="true" />
-            <element signature="e#123270#123460#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
-          <folding>
-            <element signature="e#72187#72387#2" expanded="true" />
-            <element signature="e#72499#72648#2" expanded="true" />
-            <element signature="e#73166#73312#2" expanded="true" />
-            <element signature="e#73675#73841#1" expanded="true" />
-            <element signature="e#87209#87452#2" expanded="true" />
-            <element signature="e#88416#88665#2" expanded="true" />
-            <element signature="e#120647#120837#2" expanded="true" />
-            <element signature="e#120893#121083#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/compiled.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4365">
-          <caret line="291" column="122" selection-start-line="291" selection-start-column="122" selection-end-line="291" selection-end-column="122" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#section#0;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261165">
-          <caret line="17411" selection-start-line="17411" selection-end-line="17411" />
-          <folding>
-            <element signature="e#217066#217309#2" expanded="true" />
-            <element signature="e#219078#219327#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#75129#75329#2" expanded="true" />
-            <element signature="e#75559#75708#2" expanded="true" />
-            <element signature="e#76271#76417#2" expanded="true" />
-            <element signature="e#76773#76939#1" expanded="true" />
-            <element signature="e#90065#90308#2" expanded="true" />
-            <element signature="e#91320#91569#2" expanded="true" />
-            <element signature="e#123025#123215#2" expanded="true" />
-            <element signature="e#123270#123460#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
-          <folding>
-            <element signature="e#72187#72387#2" expanded="true" />
-            <element signature="e#72499#72648#2" expanded="true" />
-            <element signature="e#73166#73312#2" expanded="true" />
-            <element signature="e#73675#73841#1" expanded="true" />
-            <element signature="e#87209#87452#2" expanded="true" />
-            <element signature="e#88416#88665#2" expanded="true" />
-            <element signature="e#120647#120837#2" expanded="true" />
-            <element signature="e#120893#121083#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/mdbootstrap/compiled.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -483,7 +461,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -493,6 +470,7 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -512,16 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#75129#75329#2" expanded="true" />
-            <element signature="e#75559#75708#2" expanded="true" />
-            <element signature="e#76271#76417#2" expanded="true" />
-            <element signature="e#76773#76939#1" expanded="true" />
-            <element signature="e#90065#90308#2" expanded="true" />
-            <element signature="e#91320#91569#2" expanded="true" />
-            <element signature="e#123025#123215#2" expanded="true" />
-            <element signature="e#123270#123460#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,16 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="29" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
-          <folding>
-            <element signature="e#72187#72387#2" expanded="true" />
-            <element signature="e#72499#72648#2" expanded="true" />
-            <element signature="e#73166#73312#2" expanded="true" />
-            <element signature="e#73675#73841#1" expanded="true" />
-            <element signature="e#87209#87452#2" expanded="true" />
-            <element signature="e#88416#88665#2" expanded="true" />
-            <element signature="e#120647#120837#2" expanded="true" />
-            <element signature="e#120893#121083#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,10 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261000">
           <caret line="17400" lean-forward="true" selection-start-line="17400" selection-end-line="17400" />
-          <folding>
-            <element signature="e#217066#217309#2" expanded="true" />
-            <element signature="e#219078#219327#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,7 +524,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -580,6 +533,7 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -602,16 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#75129#75329#2" expanded="true" />
-            <element signature="e#75559#75708#2" expanded="true" />
-            <element signature="e#76271#76417#2" expanded="true" />
-            <element signature="e#76773#76939#1" expanded="true" />
-            <element signature="e#90065#90308#2" expanded="true" />
-            <element signature="e#91320#91569#2" expanded="true" />
-            <element signature="e#123025#123215#2" expanded="true" />
-            <element signature="e#123270#123460#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,16 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="29" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
-          <folding>
-            <element signature="e#72187#72387#2" expanded="true" />
-            <element signature="e#72499#72648#2" expanded="true" />
-            <element signature="e#73166#73312#2" expanded="true" />
-            <element signature="e#73675#73841#1" expanded="true" />
-            <element signature="e#87209#87452#2" expanded="true" />
-            <element signature="e#88416#88665#2" expanded="true" />
-            <element signature="e#120647#120837#2" expanded="true" />
-            <element signature="e#120893#121083#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,30 +587,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261165">
           <caret line="17411" selection-start-line="17411" selection-end-line="17411" />
-          <folding>
-            <element signature="e#217066#217309#2" expanded="true" />
-            <element signature="e#219078#219327#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/project/Webp.net-compress-image (2).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/project/Webp.net-compress-image (2).jpg" />
     <entry file="file://$PROJECT_DIR$/img/chat_widget/send.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/mdbootstrap/mdb.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="615">
           <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chat_widget/reply.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chat_widget/setup.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -688,31 +614,27 @@
     <entry file="file://$PROJECT_DIR$/js/chat_widget/Bubbles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
-          <caret line="135" column="20" lean-forward="true" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chat_widget/frame.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="1695">
           <caret line="113" column="14" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chat_widget/input.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="855">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/chat_widget/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
+        <state relative-caret-position="60">
           <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
@@ -735,22 +657,130 @@
     <entry file="file://$PROJECT_DIR$/img/project/18947198692187301.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/1534412380547.JPEG" />
+    <entry file="file://$PROJECT_DIR$/js/live2d/utils/MatrixStack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/project/sadasdsacasca.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/1534412380547.JPEG">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/js/live2d/framework/Live2DFramework.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/live2d/LAppLive2DManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/live2d/LAppDefine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/live2d/LAppModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/live2d/PlatformManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SampleApp1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/live2d/SampleApp1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="159" column="4" lean-forward="true" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Live2DFramework.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleApp1/src/utils/MatrixStack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleApp1/SampleApp1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleApp1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LAppDefine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LAppLive2DManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SampleApp1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="118" column="3" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="78" column="85" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
+        <state relative-caret-position="165">
+          <caret line="544" column="71" selection-start-line="544" selection-start-column="71" selection-end-line="544" selection-end-column="71" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -761,6 +791,7 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#section#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
