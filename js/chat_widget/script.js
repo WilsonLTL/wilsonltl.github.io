@@ -15,7 +15,7 @@ function initBubble () {
                 widget_status = false;
                 console.log("text in Script.js:",text);
                 data.text=text
-                axios.get(url+text).then(function (res) {
+                axios.post(url,data).then(function (res) {
                     result = res.data;
                     console.log(result);
                     return_say = "";

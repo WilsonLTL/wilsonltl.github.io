@@ -326,7 +326,7 @@ LAppModel.prototype.startMotion = function(name, no, priority)
     if (motionName == null || motionName == "")
     {
         if (LAppDefine.DEBUG_LOG)
-            console.error("Failed to motion.");
+            //console.error("Failed to motion.");
         return;
     }
 

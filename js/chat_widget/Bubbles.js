@@ -17,16 +17,10 @@ function Bubbles(container, self, options) {
 
     var nlp_say = function(text) {
         widget_status = false
-
         data.text=text
         return Promise.resolve(
-            axios.get(url+text).then(function (res) {
+            axios.post(url,data).then(function (res) {
                 result = res.data
-                // if (result["Success"]===true && result["Speech"] !== ""){
-                //     return result["Speech"]
-                // }else{
-                //     return nlp_noresponse_msg
-                // }
                 if (result["Speech"] !== ""){
                     widget_status = true
 
@@ -50,10 +44,9 @@ function Bubbles(container, self, options) {
 
     var nlp_reply = function(text) {
         widget_status = false
-
         data.text=text
         return Promise.resolve(
-            axios.get(url+text).then(function (res) {
+            axios.post(url,data).then(function (res) {
                 result = res.data
                 console.log(result)
 

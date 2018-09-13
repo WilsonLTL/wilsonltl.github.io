@@ -1,12 +1,12 @@
-let url = "https://nlp.asiabots.com/CareClub?Key=f9bbe5f386487c416d4153b9ba307ad7&SessionID=CareClubXXX&Location="
+let url = "http://127.0.0.1:5000/sub_agent"
 
 let nlp_noresponse_msg = '不好意思，我不明白你說什麼😥'
 
-let default_home_msg = 'Hi, nice to meet you (▰˘◡˘▰)'
+let default_home_msg = '你好,好高興見到你呀 (▰˘◡˘▰)'
 
 let default_home_reply_msg = [
-    {question:"Tell me more about your master",answer:"reply_message"},
-    {question:"What is Milk Tea System?",answer:"reply_message"}
+    {question:"講多啲關於你Master嘅嘢.",answer:"reply_message"},
+    {question:"乜嘢係Milk Tea System呀?",answer:"reply_message"}
     ]
 
 let default_reply_msg = {
@@ -16,7 +16,7 @@ let default_reply_msg = {
 
 let data = {
     "system_id":12312,
-    "agent_id":"26yjP",
+    "agent_id":"y6gHB",
     "text":""
 }
 
@@ -27,34 +27,26 @@ widget_status = true
 let initSetting = function () {
 
     return Promise.resolve(
-        axios.get("https://api.ipify.org?format=json").then(function (res) {
-            url += res.data.ip+"&Say="
+        axios.post(url,data).then(function (res) {
+            console.log(res.data['Speech'])
+            convo = {
+                ice: {
+                    says: [default_home_msg],
+                    reply: default_home_reply_msg
+                },
+                reply_message: {
+                    says: [default_home_msg],
+                    reply: [
+                        {
+                            question: "Home",
+                            answer: "ice"
+                        }
+                    ]
+                }
+            };
 
-            axios.get(url+"init").then(function (res) {
-                console.log(res.data['Speech'])
-                // default_home_msg = res.data['Speech']
-                // res.data['Reply'].forEach(function (e) {
-                //     default_home_reply_msg.push({question:e,answer:"reply_message"})
-                // })
-                convo = {
-                    ice: {
-                        says: [default_home_msg],
-                        reply: default_home_reply_msg
-                    },
-                    reply_message: {
-                        says: [default_home_msg],
-                        reply: [
-                            {
-                                question: "Home",
-                                answer: "ice"
-                            }
-                        ]
-                    }
-                };
-
-                initBubble()
-                return widget_status
-            })
+            initBubble()
+            return widget_status
         })
     )
 }
