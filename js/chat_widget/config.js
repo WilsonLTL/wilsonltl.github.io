@@ -6,7 +6,7 @@ let default_home_msg = '你好,好高興見到你呀 (▰˘◡˘▰)'
 
 let default_home_reply_msg = [
     {question:"講多啲關於你Master嘅嘢.",answer:"reply_message"},
-    {question:"乜嘢係Milk Tea System呀?",answer:"reply_message"}
+    {question:"乜嘢係Milk Tea System?",answer:"reply_message"}
     ]
 
 let default_reply_msg = {
