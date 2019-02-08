@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill_tw_hk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skill_tw_hk.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5790">
-              <caret line="386" selection-start-line="386" selection-end-line="386" />
+            <state relative-caret-position="258">
+              <caret line="388" column="47" selection-start-line="388" selection-start-column="47" selection-end-line="388" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,16 +46,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="skill_eng.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
@@ -105,11 +95,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>navbar-dark</find>
-      <find>navbar</find>
-      <find>bubble-</find>
-      <find>chat_button</find>
-      <find>.input-wrap</find>
       <find>( ͡° ͜ʖ ͡°)</find>
       <find>text</find>
       <find>bubble-wrap</find>
@@ -127,6 +112,19 @@
       <find>https://mdbootstrap.com/img/Photos/Slides/img%20(70).jpg</find>
       <find>skill</find>
       <find>project</find>
+      <find>2676260123</find>
+      <find>224805109</find>
+      <find>79965784</find>
+      <find>79965783</find>
+      <find>80047171</find>
+      <find>434705298</find>
+      <find>79964675</find>
+      <find>1460054769</find>
+      <find>4081218683</find>
+      <find>3298256598</find>
+      <find>2235773608</find>
+      <find>1913897098</find>
+      <find>119505187</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,8 +154,8 @@
         <option value="$PROJECT_DIR$/js/chat_widget/script.js" />
         <option value="$PROJECT_DIR$/js/chat_widget/config.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/img/skill_tw_hk.csv" />
         <option value="$PROJECT_DIR$/img/skill_eng.csv" />
+        <option value="$PROJECT_DIR$/img/skill_tw_hk.csv" />
       </list>
     </option>
   </component>
@@ -286,12 +284,12 @@
       <workItem from="1538475635657" duration="1271000" />
       <workItem from="1547690201902" duration="2285000" />
       <workItem from="1549476458816" duration="664000" />
-      <workItem from="1549598202153" duration="19000" />
+      <workItem from="1549598202153" duration="772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75577000" />
+    <option name="totallyTimeSpent" value="76330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="791" y="23" width="889" height="982" extended-state="0" />
@@ -505,10 +503,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1523">
+          <caret line="1216" column="41" lean-forward="true" selection-start-line="1216" selection-start-column="41" selection-end-line="1216" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19065">
+          <caret line="1271" column="30" selection-start-line="1271" selection-start-column="20" selection-end-line="1271" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5790">
-          <caret line="386" selection-start-line="386" selection-end-line="386" />
+        <state relative-caret-position="258">
+          <caret line="388" column="47" selection-start-line="388" selection-start-column="47" selection-end-line="388" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -534,12 +546,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
