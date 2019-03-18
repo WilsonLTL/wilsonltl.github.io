@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="305" column="103" selection-start-line="305" selection-start-column="103" selection-end-line="305" selection-end-column="103" />
+            <state relative-caret-position="416">
+              <caret line="161" column="46" selection-start-line="161" selection-start-column="46" selection-end-line="161" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -170,7 +170,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="791" />
+    <option name="x" value="742" />
     <option name="y" value="23" />
     <option name="width" value="889" />
     <option name="height" value="982" />
@@ -188,6 +188,22 @@
             <path>
               <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal_website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_website" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_website" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="live2d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="personal_website" type="b2602c69:ProjectViewProjectNode" />
@@ -287,25 +303,29 @@
       <workItem from="1549476458816" duration="664000" />
       <workItem from="1549598202153" duration="1353000" />
       <workItem from="1550475827910" duration="162000" />
-      <workItem from="1550730931544" duration="41000" />
+      <workItem from="1550730931544" duration="388000" />
+      <workItem from="1552272295370" duration="353000" />
+      <workItem from="1552279602192" duration="421000" />
+      <workItem from="1552280203658" duration="529000" />
+      <workItem from="1552883735437" duration="259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77114000" />
+    <option name="totallyTimeSpent" value="79023000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="791" y="23" width="889" height="982" extended-state="0" />
+    <frame x="742" y="23" width="889" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30875576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18778802" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1559322" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15706214" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -437,13 +457,6 @@
     <entry file="file://$PROJECT_DIR$/js/live2d/PlatformManager.js" />
     <entry file="file://$PROJECT_DIR$/js/SampleApp1.html" />
     <entry file="file://$PROJECT_DIR$/js/live2d/SampleApp1.js" />
-    <entry file="file://$PROJECT_DIR$/framework/Live2DFramework.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sampleApp1/src/utils/MatrixStack.js" />
     <entry file="file://$PROJECT_DIR$/sampleApp1/SampleApp1.html" />
     <entry file="file://$PROJECT_DIR$/SampleApp1.html" />
@@ -499,13 +512,6 @@
     <entry file="file://$PROJECT_DIR$/img/1536899728316.JPEG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/chat_widget/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19065">
@@ -520,10 +526,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Live2DFramework.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/chat_widget/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="305" column="103" selection-start-line="305" selection-start-column="103" selection-end-line="305" selection-end-column="103" />
+        <state relative-caret-position="416">
+          <caret line="161" column="46" selection-start-line="161" selection-start-column="46" selection-end-line="161" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
