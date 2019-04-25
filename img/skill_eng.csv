@@ -1353,81 +1353,81 @@ Happy Bazooka,4271465542,PA,Happy Bazooka,0
 Flower Carnival,3593316716,Special,Flower Carnival attacks,0
 Flower Carnival,483639921,Special,Flower Carnival finish,0
 Clutch Step,472092093,Special,Clutch Step,0
-Shift Photon Arts(Phantom Katana),2907201045,,,,
-Shift Photon Arts(Phantom Katana),2907201492,,,,
-Shift Photon Arts(Phantom Assault Rifle),3786184050,1段階,,,,
-Shift Photon Arts(Phantom Assault Rifle),3785421997,,,,
-Shift Photon Arts(Phantom Rod),404882650,,,,
-Shift Photon Arts(Phantom Rod),404882329,,,,
-DCS(Phantom Katana),2765954690,,,,
-DCS(Phantom Assault Rifle),2600842557,,,,
-DCS(Phantom Rod),3301900032,,,,
-テク追撃,2999731584,,,,
-PTF(Phantom Katana),975125104,,,,
-PTF(Phantom Katana),3695463316,,,,
-PTF(Phantom Assault Rifle),2243620231,,,,
-PTF(Phantom Assault Rifle),1412080400,,,,
-PTF(Phantom Rod),2995855500,,,,
-PTF(Phantom Rod),2682739887,,,,
-PTF(Phantom Rod),2682739886,,,,
-PTF(Phantom Rod),2682739872,,,,
-Katana Hit (Phantom),973258663,,,,
-Katana Hit (Phantom),973258596,,,,
-Katana Hit (Phantom),973258533,,,,
-Katana Hit (Phantom),840700311,,,,
-Katana Hit (Phantom),840699985,,,,
-Katana Hit (Phantom),840699920,,,,
-Katana Step Attack Hit (Phantom),980427043,,,,
-Phantom Marker (Phantom Katana),4188914875,,,,
-Schmetterling,987960113,斬撃,,,,
-Schmetterling,1599479410,射撃,,,,
-SchmetterlingSh,1599478186,1段,,,,
-SchmetterlingSh,3569709951,2段,,,,
-Folter Zeit,987960176,,,,
-Folter Zeit1599475427,返し,,,,
-Folter ZeitSh,1599473979,,,,
-Wolkenkratzer,1599486311,斬撃,,,,
-Wolkenkratzer,987960240,衝撃波,,,,
-WolkenkratzerSh,2011111966,,,,
-Rose Schwert,654363349,初撃,,,,
-Rose Schwert,3569459369,Unknown,,,,
-Rose Schwert,3569459371,Unknown,,,,
-Rose Schwert,3569459368,Unknown,,,,
-Rose SchwertSh,1398920256,,,,
-Rose SchwertSh,1705644539,持続斬撃,,,,
-Assault Rifle Hit (Phantom),2491562758,1段目,,,,
-Assault Rifle Hit (Phantom),2491562565,2段目,,,,
-Assault Rifle Hit (Phantom),2491562628,3段目,,,,
-Assault Rifle Hit (Phantom),1999947508,,,,
-Assault Rifle Hit (Phantom ),3089109531,未チャージ追撃,,,,
-Phantom Marker (Phantom Assault Rifle),2014302715,チャージ,,,,
-Kugelsturm,2215020097,Push,,,,
-Kugelsturm,2215020162,UnPush,,,,
-KugelsturmSh,3158383588,連射,,,,
-KugelsturmSh,1640997085,打止,,,,
-Nachtangriff,3220962310,,,,
-Nachtangriff,3220962891,爆発,,,,
-NachtangriffSh,4046511708,,,,
-Verbrechen,4290111736,,,,
-VerbrechenSh,3151257398,,,,
-Strafe,3288338193,,,,
-StrafeSh,4213673767,,,,
-Rod hit (Phantom),2953139672,1段目,,,,
-Rod hit (Phantom),2953139611,2段目,,,,
-Rod hit (Phantom),2953139290,3段目,,,,
-Rod hit (Phantom),2998890418,,,,
-Phantom Marker (Phantom Rod),1431710595,Uncharged,,,,
-Phantom Marker (Phantom Rod),421953627,Charged,,,,
-Ruf Konzert,1579409293,1段目,,,,
-Ruf Konzert,1579408972,2段目,,,,
-Ruf Konzert,1579408900,3段目,,,,
-Ruf Konzert,3522834748,追撃,,,,
-Ruf KonzertSh,1429241745,Unknown,,,,
-Ruf KonzertSh,3406878835,Unknown,,,,
-Voelkermord,1579594570,,,,
-Voelkermord,2670384126,爆発,,,,
-VoelkermordSh,1579574174,フィールド,,,,
-Schwarze Katze,3406887572,,,,
-Schwarze KatzeSh,3406887761,,,,
-Eisen Fluegel,3115083023,,,,
-Eisen FluegelSh,3413713363,,,,
+Shift Photon Arts(Phantom Katana),2907201045
+Shift Photon Arts(Phantom Katana),2907201492
+Shift Photon Arts(Phantom Assault Rifle),3786184050,1段階
+Shift Photon Arts(Phantom Assault Rifle),3785421997
+Shift Photon Arts(Phantom Rod),404882650
+Shift Photon Arts(Phantom Rod),404882329
+DCS(Phantom Katana),2765954690
+DCS(Phantom Assault Rifle),2600842557
+DCS(Phantom Rod),3301900032
+テク追撃,2999731584
+PTF(Phantom Katana),975125104
+PTF(Phantom Katana),3695463316
+PTF(Phantom Assault Rifle),2243620231
+PTF(Phantom Assault Rifle),1412080400
+PTF(Phantom Rod),2995855500
+PTF(Phantom Rod),2682739887
+PTF(Phantom Rod),2682739886
+PTF(Phantom Rod),2682739872
+Katana Hit (Phantom),973258663
+Katana Hit (Phantom),973258596
+Katana Hit (Phantom),973258533
+Katana Hit (Phantom),840700311
+Katana Hit (Phantom),840699985
+Katana Hit (Phantom),840699920
+Katana Step Attack Hit (Phantom),980427043
+Phantom Marker (Phantom Katana),4188914875
+Schmetterling,987960113,斬撃
+Schmetterling,1599479410,射撃
+SchmetterlingSh,1599478186,1段
+SchmetterlingSh,3569709951,2段
+Folter Zeit,987960176
+Folter Zeit,1599475427,返し
+Folter ZeitSh,1599473979
+Wolkenkratzer,1599486311,斬撃
+Wolkenkratzer,987960240,衝撃波
+WolkenkratzerSh,2011111966
+Rose Schwert,654363349,初撃
+Rose Schwert,3569459369,Unknown
+Rose Schwert,3569459371,Unknown
+Rose Schwert,3569459368,Unknown
+Rose SchwertSh,1398920256
+Rose SchwertSh,1705644539,持続斬撃
+Assault Rifle Hit (Phantom),2491562758,1段目
+Assault Rifle Hit (Phantom),2491562565,2段目
+Assault Rifle Hit (Phantom),2491562628,3段目
+Assault Rifle Hit (Phantom),1999947508
+Assault Rifle Hit (Phantom ),3089109531,未チャージ追撃
+Phantom Marker (Phantom Assault Rifle),2014302715,チャージ
+Kugelsturm,2215020097,Push
+Kugelsturm,2215020162,UnPush
+KugelsturmSh,3158383588,連射
+KugelsturmSh,1640997085,打止
+Nachtangriff,3220962310
+Nachtangriff,3220962891,爆発
+NachtangriffSh,4046511708
+Verbrechen,4290111736
+VerbrechenSh,3151257398
+Strafe,3288338193
+StrafeSh,4213673767
+Rod hit (Phantom),2953139672,1段目
+Rod hit (Phantom),2953139611,2段目
+Rod hit (Phantom),2953139290,3段目
+Rod hit (Phantom),2998890418
+Phantom Marker (Phantom Rod),1431710595,Uncharged
+Phantom Marker (Phantom Rod),421953627,Charged
+Ruf Konzert,1579409293,1段目
+Ruf Konzert,1579408972,2段目
+Ruf Konzert,1579408900,3段目
+Ruf Konzert,3522834748,追撃
+Ruf KonzertSh,1429241745,Unknown
+Ruf KonzertSh,3406878835,Unknown
+Voelkermord,1579594570
+Voelkermord,2670384126,爆発
+VoelkermordSh,1579574174,フィールド
+Schwarze Katze,3406887572
+Schwarze KatzeSh,3406887761
+Eisen Fluegel,3115083023
+Eisen FluegelSh,3413713363
