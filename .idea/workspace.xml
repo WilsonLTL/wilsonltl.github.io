@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -170,9 +167,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="742" />
+    <option name="x" value="908" />
     <option name="y" value="23" />
-    <option name="width" value="889" />
+    <option name="width" value="772" />
     <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -307,18 +304,17 @@
       <workItem from="1552272295370" duration="353000" />
       <workItem from="1552279602192" duration="421000" />
       <workItem from="1552280203658" duration="529000" />
-      <workItem from="1552883735437" duration="259000" />
+      <workItem from="1552883735437" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79023000" />
+    <option name="totallyTimeSpent" value="79654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="742" y="23" width="889" height="982" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18778802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24654378" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
