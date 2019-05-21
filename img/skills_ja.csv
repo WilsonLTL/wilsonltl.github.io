@@ -1305,10 +1305,10 @@ DB通常攻撃(ルーサー),2743062721
 シャープグライド,4078260742
 アッパートラップEx,3643936161,Special,Upper trap (Ra skill)
 ポイズントラップEx,2794244546,Special,Poison Trap (Ra skill)
-アナザーSロールアーツ,2628225583
-アナザーSロールアーツ,2718316197
-アナザーSロールアーツ,3710533329
-アナザーSロールアーツ,534488752
+Stylish Roll hit,2628225583,Ranged,S-Roll shoot 1 gear (Another S-Roll Arts Mode) (Gu skill)
+Stylish Roll hit,2718316197,Ranged,S-Roll shoot 3 gear (Another S-Roll Arts Mode) (Gu skill
+Stylish Roll hit,3710533329,Ranged,S-Roll shoot 2 gear (Another S-Roll Arts Mode) (Gu skill)
+Stylish Roll hit,534488752,Ranged,S-Roll shoot 0 gear (Another S-Roll Arts Mode) (Gu skill)
 ヘヴィーハンマー,1770469728,ウォンドPA,ノンチャージ
 ヘヴィーハンマー,3027256165,ウォンドPA,1段チャージ
 ヘヴィーハンマー,1393830765,ウォンドPA,フルチャージ
@@ -1368,13 +1368,13 @@ DBステアタ(ダブル),4134333680,Melee,Dark Blast (Double) Step Attack
 フラワーカーニバル,3660851541,Special,Flower Carnival attacks (3rd time) 
 フラワーカーニバル,3721426675,Special,Flower Carnival finish (3rd time) 
 クラッチステップ,472092093,Special,Clutch Step
-ファントムマーカー(カタナ),2907201045
-ファントムマーカー(カタナ),2907201492
+Phantom Marker (Katana),2907201045,Special,Phantom Marker (Katana) explosion charge lv.1
+Phantom Marker (Katana),2907201492,Special,Phantom Marker (Katana) explosion charge lv.2
 ファントムマーカー(ライフル),3786184050,1段階
 ファントムマーカー(ライフル),3785421997
 ファントムマーカー(ロッド),404882650
 ファントムマーカー(ロッド),404882329
-DCS(カタナ),2765954690
+Dodge Counter Shot (Katana),2765954690,Special,Dodge Counter Shot (Katana) (Ph skill)
 DCS(ライフル),2600842557
 DCS(ロッド),3301900032
 テク追撃(ファントム),2999731584
@@ -1386,19 +1386,19 @@ PTF(ロッド),2995855500
 PTF(ロッド),2682739887
 PTF(ロッド),2682739886
 PTF(ロッド),2682739872
-通常攻撃(Phカタナ),973258663
-通常攻撃(Phカタナ),973258596
-通常攻撃(Phカタナ),973258533
-通常攻撃(Phカタナ),840700311
-通常攻撃(Phカタナ),840699985
-通常攻撃(Phカタナ),840699920
-ステアタ(Phカタナ),980427043
-ファントムシフト(カタナ),4188914875
+Katana hit (Phantom),973258663,Melee,Phantom Katana first normal attack
+Katana hit (Phantom),973258596,Melee,Phantom Katana second normal attack
+Katana hit (Phantom),973258533,Melee,Phantom Katana third normal attack
+Katana hit (Phantom),840700311,Melee,Phantom Katana air first normal attack
+Katana hit (Phantom),840699985,Melee,Phantom Katana air second normal attack
+Katana hit (Phantom),840699920,Melee,Phantom Katana air third normal attack
+Katana Step Attack (Phantom),980427043,Melee,Phantom Katana Step Attack
+Katana Weapon Action,4188914875,Special,Phantom Katana Weapon Action
 シュメッターリング,987960113,斬撃
 シュメッターリング,1599479410,射撃
 シュメッターリングSh,1599478186,1段
 シュメッターリングSh,3569709951,2段
-フォルターツァイト,987960176
+Folter Zeit,987960176,PA,Folter Zeit
 フォルターツァイト,1599475427,返し
 フォルターツァイトSh,1599473979
 ヴォルケンクラッツァー,1599486311,斬撃
