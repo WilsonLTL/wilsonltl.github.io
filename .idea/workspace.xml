@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/skill_ja.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skill_ja.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill_tw_hk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skill_tw_hk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skills_ja.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills_ja.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,20 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skill_ja.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/skill_ja.csv">
+      <file leaf-file-name="skills_ja.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="1460" column="61" selection-start-line="1460" selection-start-column="61" selection-end-line="1460" selection-end-column="61" />
+            <state relative-caret-position="17235">
+              <caret line="1149" column="9" selection-start-line="1149" selection-start-column="9" selection-end-line="1149" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21195">
-              <caret line="1413" column="15" lean-forward="true" selection-start-line="1413" selection-start-column="15" selection-end-line="1413" selection-end-column="15" />
+            <state relative-caret-position="607">
+              <caret line="1460" column="55" selection-start-line="1460" selection-start-column="55" selection-end-line="1460" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -190,10 +191,11 @@
         <option value="$PROJECT_DIR$/js/chat_widget/Bubbles.js" />
         <option value="$PROJECT_DIR$/js/chat_widget/script.js" />
         <option value="$PROJECT_DIR$/img/skill_eng.csv" />
-        <option value="$PROJECT_DIR$/img/skill_tw_hk.csv" />
         <option value="$PROJECT_DIR$/js/chat_widget/config.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/img/skill_ja.csv" />
+        <option value="$PROJECT_DIR$/img/skills_ja.csv" />
+        <option value="$PROJECT_DIR$/img/skill_tw_hk.csv" />
       </list>
     </option>
   </component>
@@ -338,7 +340,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87729000" />
+    <option name="totallyTimeSpent" value="88855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="23" width="939" height="982" extended-state="0" />
@@ -585,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21195">
-          <caret line="1413" column="15" lean-forward="true" selection-start-line="1413" selection-start-column="15" selection-end-line="1413" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/skills_ja_old.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -606,10 +601,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_ja.csv">
+    <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="1460" column="61" selection-start-line="1460" selection-start-column="61" selection-end-line="1460" selection-end-column="61" />
+        <state relative-caret-position="17235">
+          <caret line="1149" column="9" selection-start-line="1149" selection-start-column="9" selection-end-line="1149" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="1460" column="55" selection-start-line="1460" selection-start-column="55" selection-end-line="1460" selection-end-column="55" />
         </state>
       </provider>
     </entry>

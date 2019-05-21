@@ -1147,7 +1147,7 @@ DCS(ライフル),2600842557,Special,Dodge Counter Shot (Assault Rifle) (Ph skil
 クーゲルシュトゥルムSh,3158383588,PA,"Kugelsturm (Shift Action) ""lots of hits""",
 クーゲルシュトゥルムSh,1640997085,PA,Kugelsturm (Shift Action) finish,
 フェアブレッヒェン,4290111736,PA,Verbrechen,
-Verbrechen,4290111408,PA,Verbrechen sideways,0
+フェアブレッヒェン,4290111408,PA,Verbrechen sideways,0
 フェアブレッヒャンSh,3151257398,PA,Verbrechen (Shift Action),
 ナハトアングリフ,3220962891,PA,Nachtangriff,
 ナハトアングリフ,3220962310,PA,Nachtangriff projectile,
@@ -1175,9 +1175,9 @@ DCS(ロッド),3301900032,Special,Dodge Counter Shot (Rod) (Ph skill),
 シュヴァルツカッツェ,3406887572,PA,Schwarze Katze,
 シュヴァルツカッツェSh,3406887761,PA,Schwarze Katze (Shift Action),
 フェルカーモルト,1579594570,PA,Voelkermord ball charge lv.1,
-Voelkermord,1579594507,PA,Voelkermord ball charge lv.2,0
+フェルカーモルト,1579594507,PA,Voelkermord ball charge lv.2,0
 フェルカーモルト,2670384126,PA,Voelkermord explosion lv.1,
-Voelkermord,1050889844,PA,Voelkermord explosion lv.2,0
+フェルカーモルト,1050889844,PA,Voelkermord explosion lv.2,0
 フェルカーモルトSh,1579574174,PA,Voelkermord (Shift Action) AoE,
 アイゼンフリューゲル,3115083023,PA,Eisen Fluegel,
 アイゼンフリューゲルSh,3413713363,PA,Eisen Fluegel (Shift Action),
@@ -1360,7 +1360,7 @@ DBステアタ(アプレンティス),3725887474,Melee,Dark Blast (Apprentice) S
 サーヴァント・ホーネット,1764406382,Special,Servant Hornet,
 サーヴァント・ホーネット,3891439877,Special,Servant Hornet,
 フォルティッシモ・キック,2295506478,PA,Fortissimo Kick,
-Fortissimo Kick,1738105582,PA,Fortissimo Kick aoe?,0
+フォルティッシモ・キック,1738105582,PA,Fortissimo Kick aoe?,0
 フォルティッシモ・キック,37504833,PA,Fortissimo Kick (Royal Scorpion),
 ブラック・クイーン・アライバル,1891210633,Special,Black Queen Arrival,
 センセーショナル・スピード,3617357696,Special,Sensational Speed Attack,
@@ -1379,10 +1379,10 @@ DBステアタ(ダブル),4134333680,Melee,Dark Blast (Double) Step Attack,
 ハッピーバズーカ,4271465542,PA,Happy Bazooka,
 フラワーカーニバル,3593316716,Special,Flower Carnival attacks,
 フラワーカーニバル,483639921,Special,Flower Carnival finish,
-Flower Carnival,3113171853,Special,Flower Carnival attacks (2nd time),0
-Flower Carnival,2157431709,Special,Flower Carnival finish (2nd time),0
-Flower Carnival,3660851541,Special,Flower Carnival attacks (3rd time),0
-Flower Carnival,3721426675,Special,Flower Carnival finish (3rd time),0
+フラワーカーニバル,3113171853,Special,Flower Carnival attacks (2nd time),0
+フラワーカーニバル,2157431709,Special,Flower Carnival finish (2nd time),0
+フラワーカーニバル,3660851541,Special,Flower Carnival attacks (3rd time),0
+フラワーカーニバル,3721426675,Special,Flower Carnival finish (3rd time),0
 クラッチステップ,472092093,Special,Clutch Step,
 バーン,2505928570,Status,Burn Status Effect (level 1),
 バーン,2505928505,Status,Burn Status Effect (level 2),
