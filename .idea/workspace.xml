@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="" />
+    <list default="true" id="56f3d6ce-cd4d-44cd-91df-1f17f4b9e326" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill_eng.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skill_eng.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill_tw_hk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skill_tw_hk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skills_ja.csv" beforeDir="false" afterPath="$PROJECT_DIR$/img/skills_ja.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skills_ja_old.csv" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="436" lean-forward="true" selection-start-line="436" selection-end-line="436" />
+              <caret line="436" selection-start-line="436" selection-end-line="436" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,35 +56,26 @@
       <file leaf-file-name="skill_eng.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="1451" column="42" lean-forward="true" selection-start-line="1451" selection-start-column="42" selection-end-line="1451" selection-end-column="42" />
+            <state relative-caret-position="436">
+              <caret line="1443" column="69" selection-start-line="1443" selection-start-column="69" selection-end-line="1443" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills_ja_old.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/skills_ja_old.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skills_ja.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17235">
-              <caret line="1149" column="9" selection-start-line="1149" selection-start-column="9" selection-end-line="1149" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="1460" column="55" selection-start-line="1460" selection-start-column="55" selection-end-line="1460" selection-end-column="55" />
+            <state relative-caret-position="206">
+              <caret line="1448" column="28" lean-forward="true" selection-start-line="1448" selection-start-column="28" selection-end-line="1448" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills_ja.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="1437" column="22" selection-start-line="1437" selection-start-column="22" selection-end-line="1437" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -130,8 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>input-</find>
-      <find>bubble</find>
       <find>custom-border</find>
       <find>Project</find>
       <find>changeModel</find>
@@ -151,15 +146,17 @@
       <find>80047171</find>
       <find>434705298</find>
       <find>79964675</find>
-      <find>1460054769</find>
       <find>4081218683</find>
       <find>3298256598</find>
       <find>2235773608</find>
       <find>1913897098</find>
-      <find>119505187</find>
       <find>&quot;</find>
       <find>http://ec2-13-251-193-178.ap-southeast-1.compute.amazonaws.com:5000/sub_agent</find>
       <find>url</find>
+      <find>AIS Area Heal</find>
+      <find>1460054769</find>
+      <find>119505187</find>
+      <find>AIS Vega Photon Blaster</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,8 +188,9 @@
         <option value="$PROJECT_DIR$/js/chat_widget/config.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/img/skill_ja.csv" />
-        <option value="$PROJECT_DIR$/img/skills_ja.csv" />
+        <option value="$PROJECT_DIR$/img/skill_eng_old.csv" />
         <option value="$PROJECT_DIR$/img/skill_tw_hk.csv" />
+        <option value="$PROJECT_DIR$/img/skills_ja.csv" />
       </list>
     </option>
   </component>
@@ -206,9 +204,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
+    <option name="x" value="108" />
     <option name="y" value="23" />
-    <option name="width" value="822" />
+    <option name="width" value="1572" />
     <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -333,42 +331,35 @@
       <workItem from="1556211099550" duration="2335000" />
       <workItem from="1556700209962" duration="16000" />
       <workItem from="1557978168841" duration="422000" />
+      <workItem from="1558964866839" duration="778000" />
+      <workItem from="1559227610037" duration="966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89284000" />
+    <option name="totallyTimeSpent" value="91028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="822" height="982" extended-state="0" />
+    <frame x="108" y="23" width="1572" height="982" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75106084" visible="true" weight="0.31835207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49787837" visible="true" weight="0.2488717" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.24893919" side_tool="true" visible="true" weight="0.31835207" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18642117" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5021216" side_tool="true" weight="0.21722846" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18642117" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.21786493" />
-      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" visible="true" weight="0.21786493" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18642117" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,13 +369,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/mdbootstrap/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -519,7 +503,7 @@
     <entry file="file://$PROJECT_DIR$/img/1536899728316.JPEG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_eng_old.csv" />
+    <entry file="file://$PROJECT_DIR$/img/skill_eng.csv" />
     <entry file="file://$PROJECT_DIR$/framework/Live2DFramework.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -552,10 +536,17 @@
     <entry file="file://$PROJECT_DIR$/img/project/231923y198738912.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/skills_ja_old.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="436" lean-forward="true" selection-start-line="436" selection-end-line="436" />
+          <caret line="436" selection-start-line="436" selection-end-line="436" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -583,31 +574,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/skills_ja_old.csv">
+    <entry file="file://$PROJECT_DIR$/img/skills_en.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="1451" column="42" lean-forward="true" selection-start-line="1451" selection-start-column="42" selection-end-line="1451" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17235">
-          <caret line="1149" column="9" selection-start-line="1149" selection-start-column="9" selection-end-line="1149" selection-end-column="9" />
+        <state relative-caret-position="506">
+          <caret line="1469" column="65" selection-start-line="1469" selection-start-column="65" selection-end-line="1469" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/skill_tw_hk.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="1460" column="55" selection-start-line="1460" selection-start-column="55" selection-end-line="1460" selection-end-column="55" />
+        <state relative-caret-position="206">
+          <caret line="1448" column="28" lean-forward="true" selection-start-line="1448" selection-start-column="28" selection-end-line="1448" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/skill_eng.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="1443" column="69" selection-start-line="1443" selection-start-column="69" selection-end-line="1443" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/skills_ja.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1437" column="22" selection-start-line="1437" selection-start-column="22" selection-end-line="1437" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -1422,17 +1422,26 @@ Photon Cannon,1954812934,Special,Photon Cannon charge lv.1,0
 光子激光炮,2676260123,Special,Photon Laser Cannon,
 光子懲罰者,224805109,Special,Photon Punisher,
 速射砲,1913897098,Special,Rapid-Fire Mana Gun,
-AIS 光子軍刀,119505187,Special,A.I.S rifle (Solid Vulcan),
-AIS 光子軍刀,79965782,Special,A.I.S melee first attack (Photon Saber),
-AIS 光子軍刀,79965783,Special,A.I.S melee second attack (Photon Saber),
-AIS 光子軍刀,79965784,Special,A.I.S melee third attack (Photon Saber),
-AIS 光子軍刀,80047171,Special,A.I.S dash melee (Photon Saber),
-AIS 光子榴彈,434705298,Special,A.I.S rockets (Photon Grenade),
-AIS 光子推進,79964675,Special,A.I.S gap closer PA attack (Photon Rush),
-AIS 光子衝擊波,1460054769,Special,A.I.S cannon (Photon Blaster),
-AIS 光子急凍,4081218683,Special,A.I.S mob freezing attack (Photon Blizzard),
-AIS 光子脆化,3298256598,Special,A.I.S Weak Buster (Weak Bullet),
-AIS 光子癒合,2826401717,Special,A.I.S Area Heal,
+AIS ソリッドバルカン,119505187,Special,A.I.S rifle (Solid Vulcan)
+AIS 光子軍刀,79965782,Special,A.I.S melee first attack (Photon Saber)
+AIS 光子軍刀,79965783,Special,A.I.S melee second attack (Photon Saber)
+AIS 光子軍刀,79965784,Special,A.I.S melee third attack (Photon Saber)
+AIS Step Attack,80047171,Special,A.I.S Step Attack
+AIS 光子榴彈,434705298,Special,A.I.S rockets (Photon Grenade)
+AIS 光子推進,79964675,Special,A.I.S gap closer PA attack (Photon Rush)
+AIS 光子衝擊波,1460054769,Special,A.I.S cannon (Photon Blaster)
+AIS 光子急凍,4081218683,Special,A.I.S mob freezing attack (Photon Blizzard)
+AIS 光子脆化,3298256598,Special,A.I.S Weak Buster (Weak Bullet)
+AIS 光子癒合,2826401717,Special,A.I.S (also Vega) Area Heal
+AIS Vega ソリッドバルカン,1164312683,Ranged,A.I.S. Vega Solid Vulcan
+AIS Vega 光子斬擊,858127000,Melee,A.I.S. Vega Blade Rush first
+AIS Vega 光子斬擊503978418,Melee,A.I.S. Vega Blade Rush second
+AIS Vega 光子斬擊,3724116814,Melee,A.I.S. Vega Blade Rush third
+AIS Vega 推進斬擊,2655531208,Melee,A.I.S. Vega Step Attack
+AIS Vega 導彈,383210274,Ranged,A.I.S. Vega Multi-Lock Missiles
+AIS Vega 反擊盾,2640906853,Special,A.I.S. Vega Counter Shield
+AIS Vega 反擊盾,3968047485,Special,A.I.S. Vega Counter Shield big
+AIS Vega 光子衝擊波,1628689645,Special,A.I.S. Vega Photon Blaster
 Ridroid,3491866260,Special,Rideroid throw,
 Ridroid,2056025809,Special,Rideroid hit forward slow,
 Ridroid,2534881408,Special,Rideroid hit forward stop,
