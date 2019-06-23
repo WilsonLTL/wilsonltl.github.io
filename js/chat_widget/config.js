@@ -1,4 +1,4 @@
-let url = "http://ec2-13-251-193-178.ap-southeast-1.compute.amazonaws.com:5000/sub_agent";
+let url = "https://d1cep308rcoon.cloudfront.net/sub_agent";
 
 let nlp_noresponse_msg = '不好意思，我不明白你說什麼😥'
 
