@@ -801,6 +801,8 @@ Satellite Aim,2273182629,PA,Satellite Aim (hit 2) 0 gear
 Satellite Aim,2273181786,PA,1 gear
 Satellite Aim,2273181787,PA,2 gear
 Satellite Aim,2273181784,PA,3 gear
+Satellite Aim,1564855959,PA,Satellite Aim Battle Arena (hit 1) 
+Satellite Aim,3894802376,PA,Satellite Aim Battle Arena (hit 2)
 Elder Rebellion,1108337397,PA,Elder Rebellion (5 hits) 0 gear
 Elder Rebellion,1108337396,PA,1 gear
 Elder Rebellion,1108337395,PA,2 gear
@@ -1190,6 +1192,9 @@ Phantom Time (Rod),2682739886,Special,Phantom Time (Rod) final lasers (Ph skill)
 Dissipating Wave,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential)
 Dissipating Wave,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential)
 Dissipating Wave,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential)
+Dissipating Wave,1195472353,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+Dissipating Wave,1195472288,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+Dissipating Wave,1195474500,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
 Mysterious Conjurer,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (Weapon Potential)
 Mysterious Conjurer,4139628288,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential)
 Mysterious Conjurer,4139628319,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential)
@@ -1218,6 +1223,11 @@ Bright Silver Flame,2711351862,Special,Bright Silver Flame (Exacrimav) (Weapon P
 Bright Silver Flame,923779696,Special,Bright Silver Flame (Phantom) (Exacrimav) (Weapon Potential)
 Torrential Dash,3438460459,Special,Torrential Dash (Stopping dash wave) (RA Stinger) (Weapon Potential)
 Torrential Dash,3333338057,Special,Torrential Dash (Dash collision) (RA Stinger) (Weapon Potential)
+Agonizing Blaze,1353602257,Special,Agonizing Blaze (Rengokuto Guren) (Weapon Potential)
+Luminecho Hammer,2547423209,Special,Luminecho Hammer (Acure Charis/Atus Charis) (Weapon Potential)
+Luminecho Slug,2255706962,Special,Luminecho Slug (Orgei Rancor) (Weapon Potential)
+Luminecho Guillotine,895846384,Special,Luminecho Guillotine (Orgei Malice) (Weapon Potential)
+Variating Redress,3714671926,Special,Variating Redress (Genon series) (Weapon Potential)
 BOOSTO KICKU,85301614,Special,Tokyo speed-pad kick level 1
 BOOSTO KICKU,85302964,Special,Tokyo speed-pad kick level 2 
 BOOSTO KICKU,85303029,Special,Tokyo speed-pad kick level 3
@@ -1438,7 +1448,7 @@ AIS Vega Blade Rush,858127000,Melee,A.I.S. Vega Blade Rush first
 AIS Vega Blade Rush,503978418,Melee,A.I.S. Vega Blade Rush second
 AIS Vega Blade Rush,3724116814,Melee,A.I.S. Vega Blade Rush third
 AIS Vega Step Attack,2655531208,Melee,A.I.S. Vega Step Attack
-AIS Vega Multi-Lock Missiles,383210274,Ranged,A.I.S. Vega Multi-Lock Missiles
+AIS Vega Multi-Lock Missiles,383210274,Ranged,A.I.S. Vega Multi-Lock Missiles 
 AIS Vega Counter Shield,2640906853,Special,A.I.S. Vega Counter Shield
 AIS Vega Counter Shield,3968047485,Special,A.I.S. Vega Counter Shield big
 AIS Vega Photon Blaster,1628689645,Special,A.I.S. Vega Photon Blaster
