@@ -276,6 +276,8 @@ Enemy Thrown,2164805818,PA,beatdown,
 撕裂網格,195498830,PA,Tear Grid final hit,
 撕裂網格,3630719180,PA,Tear Grid combo hits(g),
 撕裂網格,3226393072,PA,Tear Grid final hit (g),
+帝王分裂,3811494773,Special,Imperial Cleave hit
+帝王分裂,2499265502,Special,Imperial Cleave slash
 通常攻撃(自在槍),1667827810,Melee,Wired Lance 1,
 通常攻撃(自在槍),1667827875,Melee,Wired Lance 2,
 通常攻撃(自在槍),1667828192,Melee,Wired Lance 3,
@@ -717,6 +719,9 @@ BRJC,4136181738,Special,Just Counter (2-3 gear) second hit,
 火焰放射,2709161242,PA,Flame Bullet,
 宇宙破壞者,2219596384,PA,Cosmos Breaker,
 天體清除者,2219595324,PA,Sphere Eraser,
+Prominence Assail,2751377490,Special,Prominence Assail jump hit
+Prominence Assail,2751377556,Special,Prominence Assail hits
+Prominence Assail,2751377621,Special,Prominence Assail final hit
 通常攻撃(雙機槍),3132894402,Ranged,First attack (4x) 0 gear,
 通常攻撃(雙機槍),3132894403,Ranged,1 gear,
 通常攻撃(雙機槍),3132894401,Ranged,2 gear,
@@ -904,6 +909,10 @@ BRJC,4136181738,Special,Just Counter (2-3 gear) second hit,
 元素爆發,3999693063,Special,Wind Elemental Burst (Bo skill),
 元素爆發,1812915089,Special,Light Elemental Burst (Bo skill),
 元素爆發,606506553,Special,Dark Elemental Burst (Bo skill),
+暴風雨突襲,1927231955,Special,Tempest Raid thunder
+暴風雨突襲,2141090244,Special,Tempest Raid slashes
+暴風雨突襲,3659915973,Special,Tempest Raid final hit
+暴風雨突襲,3782877357,Special,Tempest Raid final hit shift action
 通常攻撃(奏具),4065469038,Melee,Baton attack,
 通常攻撃(汪達),2785585589,Melee,Wanda auto-attack 1,
 通常攻撃(汪達),2785585652,Melee,Wanda auto-attack 2,
@@ -1189,12 +1198,98 @@ PTF(長杖),2995855500,Special,Phantom Time (Rod) (Ph skill),
 PTF(長杖),2682739872,Special,Phantom Time (Rod) 2nd part (Ph skill),
 PTF(長杖),2682739887,Special,Phantom Time (Rod) 3rd part (Ph skill),
 PTF(長杖),2682739886,Special,Phantom Time (Rod) final lasers (Ph skill),
-飛斬翔刃,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,1195472353,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
-飛斬翔刃,1195472288,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
-飛斬翔刃,1195474500,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+通常攻撃(星辰兩劍),3919241663,Melee,Etoile Double Saber first normal attack
+通常攻撃(星辰兩劍),169524061,Melee,Etoile Double Saber second normal attack
+通常攻撃(星辰兩劍)),3511369619,Melee,Etoile Double Saber third normal attack
+通常攻撃(星辰兩劍),601312782,Melee,Etoile Double Saber air first normal attack
+通常攻撃(星辰兩劍),2524726786,Melee,Etoile Double Saber air second normal attack
+墊步攻擊(星辰兩劍),1877753403,Melee,Etoile Double Saber Step Attack
+武器動作(星辰兩劍),3703502919,Special,Etoile Double Saber Weapon Action first-in-a-row
+武器動作(星辰兩劍),1299126211,Special,Etoile Double Saber Weapon Action second-in-a-row
+武器動作(星辰兩劍),2505461367,Special,Etoile Double Saber Weapon Action small swords
+武器動作(星辰兩劍)),3703475948,Special,Etoile Double Saber Weapon Action parry first-in-a-row
+武器動作(星辰兩劍),1299131665,Special,Etoile Double Saber Weapon Action parry second-in-a-row
+武器動作(星辰兩劍),3703475885,Special,Etoile Double Saber Weapon Action (Quick Take) first-in-a-row (Et skill)
+武器動作(星辰兩劍),1299131728,Special,Etoile Double Saber Weapon Action (Quick Take) second-in-a-row (Et skill)
+兩劍反應技藝,3668847151,Special,Double Saber Quick Take (normal attack) (Et skill)
+齒輪爆發(星辰兩劍),2428433047,Special,Etoile Double Saber Gear no gear (Et skill)
+齒輪爆發(星辰兩劍),3674749665,Special,Etoile Double Saber Gear 1 gear (Et skill)
+墊步側攻擊(星辰兩劍),3668847214,Special,Double Saber Step Slide Attack (Et skill)
+星辰兩劍墊步反擊,3668848108,Special,Double Saber Step Guard (Et skill)
+絕對魁霎,3023957695,PA,Absolute Quasar dash hit
+絕對魁霎,3023957886,PA,Absolute Quasar lots of hits
+絕對魁霎,3023959320,PA,Absolute Quasar final AoE
+毀滅軍刀,2697421743,PA,Saber Destruction
+毀滅軍刀,2697421419,PA,Saber Destruction second
+毀滅軍刀,2697421354,PA,Saber Destruction final
+流星一閃,3186989454,PA,Shooting Star
+流星一閃,3186990914,PA,Shooting Star swords
+天體撞擊,3016370354,PA,Celestial Collide
+天體撞擊,3016370673,PA,Celestial Collide sword
+通常攻撃(星辰飛翔劍),634701582,Melee,Etoile Dual Blades  first normal attack
+通常攻撃(星辰飛翔劍),3591995488,Melee,Etoile Dual Blades second normal attack
+通常攻撃(星辰飛翔劍),3591995809,Melee,Etoile Dual Blades second normal attack kick
+通常攻撃(星辰飛翔劍),634701708,Melee,Etoile Dual Blades third normal attack hit
+墊步攻擊(星辰飛翔劍),3216339209,Melee,Etoile Dual Blades Step Attack first hit
+墊步攻擊(星辰飛翔劍),3216339272,Melee,Etoile Dual Blades Step Attack second hit
+武器動作(星辰飛翔劍),762625001,Special,Etoile Dual Blades Weapon Action thrown sword
+武器動作(星辰飛翔劍),2717596840,Special,Etoile Dual Blades Weapon Action guard
+齒輪爆發(星辰飛翔劍),2848757556,Special,Etoile Dual Blades Gear (Connect) first 3 hits (Et skill)
+齒輪爆發(星辰飛翔劍),3689006720,Special,Etoile Dual Blades Gear (Connect) semi-final hit (Et skill)
+齒輪爆發(星辰飛翔劍),3689006745,Special,Etoile Dual Blades Gear (Connect) final hit (Et skill)
+齒輪爆發(星辰飛翔劍),2511501523,Special,Etoile Dual Blades Gear (Full Connect) (Et skill)
+齒輪爆發(星辰飛翔劍),2511501522,Special,Etoile Dual Blades Gear slash (Full Connect) (Et skill)
+變形刀片,2146020536,PA,Distortion Piece first hit
+變形刀片,2146020473,PA,Distortion Piece second hit
+變形刀片,2146021178,PA,Distortion Piece final hit
+變形刀片,3346332164,PA,Distortion Piece side swords
+虛空針刺,1463728380,PA,Radiant Sting first hit
+虛空針刺,1463728189,PA,Radiant Sting second hit
+虛空針刺,3117418431,PA,Radiant Sting third hit
+虛空針刺,2350220858,PA,Radiant Sting side swords
+虛空針刺,1624837806,PA,Radiant Sting final hit
+垂直流動,1625099890,PA,Vertical Flow jump hit
+垂直流動,1625099760,PA,Vertical Flow downward hit
+垂直流動,2419210264,PA,Vertical Flow ???
+垂直流動,2419211090,PA,Vertical Flow X slash
+垂直流動,1609610974,PA,Vertical Flow left side sword
+垂直流動,1609610314,PA,Vertical Flow right side sword
+光子波動,1624366591,PA,Light Wave first slash
+光子波動,3350106872,PA,Light Wave second slash
+光子波動,3350106162,PA,Light Wave third slash
+光子波動,1624365942,PA,Light Wave final (X) slash
+光子波動,712251032,PA,Light Wave left side sword
+光子波動,712272135,PA,Light Wave right side sword
+通常攻撃(星辰短杖),4018085752,Melee,Etoile Wand first normal attack
+通常攻撃(星辰短杖)),4018085689,Melee,Etoile Wand second normal attack
+通常攻撃(星辰短杖),4018085882,Melee,Etoile Wand third normal attack
+墊步攻擊(星辰短杖),3968236707,Melee,Etoile Wand Step Attack 
+齒輪爆發(星辰短杖),1295321598,Special,Etoile Wand Gear projectile (Et skill)
+齒輪爆發(星辰短杖),3381519387,Special,Etoile Wand Gear 1st charge explosion (Et skill)
+齒輪爆發(星辰短杖),3381519386,Special,Etoile Wand Gear 2nd charge first explosion (Et skill)
+齒輪爆發(星辰短杖),3099099080,Special,Etoile Wand Gear 2nd charge big explosion (Et skill)
+迂迴棱鏡,699328332,PA,Prism Circular hold
+迂迴棱鏡,788841907,PA,Prism Circular first hit
+迂迴棱鏡,4288338327,PA,Prism Circular slash
+迂迴棱鏡,788842224,PA,Prism Circular (Focus/Weapon Action)
+閃光爆發,4020026781,PA,Glitter Stripe
+閃光爆發,785560393,PA,Glitter Stripe explosion
+閃光爆發,785561722,PA,Glitter Stripe explosion (Focus/Weapon Action)
+黑洞破裂,2723321977,PA,Black Hole Rupture
+黑洞破裂,2710202273,PA,Black Hole Rupture AoE field generating slash
+黑洞破裂,2286047535,PA,Black Hole Rupture AoE field
+黑洞破裂,2286047593,PA,Black Hole Rupture AoE field (Focus/Weapon Action)
+太陽耀斑,5834299,PA,Luminous Flare
+太陽耀斑,2338828957,PA,Luminous Flare (Focus/Weapon Action)
+飛斬翔刃,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195472353,Special,Dissipating Wave first normal attack (and Step Attack)　(Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195472288,Special,Dissipating Wave second normal attack (Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195474500,Special,Dissipating Wave third normal attack　(Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2738251077,Special,Dissipating Wave (Etoile) first normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2924000350,Special,Dissipating Wave (Etoile) second normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2029349838,Special,Dissipating Wave (Etoile) third normal attack (Form/Vades series) (Weapon Potential)
 拉維斯衝擊波,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
 拉維斯衝擊波,4139628288,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
 拉維斯衝擊波,4139628319,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
