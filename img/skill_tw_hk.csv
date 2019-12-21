@@ -276,6 +276,8 @@ Enemy Thrown,2164805818,PA,beatdown,
 撕裂網格,195498830,PA,Tear Grid final hit,
 撕裂網格,3630719180,PA,Tear Grid combo hits(g),
 撕裂網格,3226393072,PA,Tear Grid final hit (g),
+Imperial Cleave,3811494773,Special,Imperial Cleave hit
+Imperial Cleave,2499265502,Special,Imperial Cleave slash
 通常攻撃(自在槍),1667827810,Melee,Wired Lance 1,
 通常攻撃(自在槍),1667827875,Melee,Wired Lance 2,
 通常攻撃(自在槍),1667828192,Melee,Wired Lance 3,
@@ -717,6 +719,9 @@ BRJC,4136181738,Special,Just Counter (2-3 gear) second hit,
 火焰放射,2709161242,PA,Flame Bullet,
 宇宙破壞者,2219596384,PA,Cosmos Breaker,
 天體清除者,2219595324,PA,Sphere Eraser,
+Prominence Assail,2751377490,Special,Prominence Assail jump hit
+Prominence Assail,2751377556,Special,Prominence Assail hits
+Prominence Assail,2751377621,Special,Prominence Assail final hit
 通常攻撃(雙機槍),3132894402,Ranged,First attack (4x) 0 gear,
 通常攻撃(雙機槍),3132894403,Ranged,1 gear,
 通常攻撃(雙機槍),3132894401,Ranged,2 gear,
@@ -904,6 +909,10 @@ BRJC,4136181738,Special,Just Counter (2-3 gear) second hit,
 元素爆發,3999693063,Special,Wind Elemental Burst (Bo skill),
 元素爆發,1812915089,Special,Light Elemental Burst (Bo skill),
 元素爆發,606506553,Special,Dark Elemental Burst (Bo skill),
+暴風雨突襲,1927231955,Special,Tempest Raid thunder
+暴風雨突襲,2141090244,Special,Tempest Raid slashes
+暴風雨突襲,3659915973,Special,Tempest Raid final hit
+暴風雨突襲,3782877357,Special,Tempest Raid final hit shift action
 通常攻撃(奏具),4065469038,Melee,Baton attack,
 通常攻撃(汪達),2785585589,Melee,Wanda auto-attack 1,
 通常攻撃(汪達),2785585652,Melee,Wanda auto-attack 2,
@@ -1272,16 +1281,21 @@ PTF(長杖),2682739886,Special,Phantom Time (Rod) final lasers (Ph skill),
 黑洞破裂,2286047593,PA,Black Hole Rupture AoE field (Focus/Weapon Action)
 太陽耀斑,5834299,PA,Luminous Flare
 太陽耀斑,2338828957,PA,Luminous Flare (Focus/Weapon Action)
-飛斬翔刃,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential),
-飛斬翔刃,1195472353,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
-飛斬翔刃,1195472288,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
-飛斬翔刃,1195474500,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195472353,Special,Dissipating Wave first normal attack (and Step Attack)　(Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195472288,Special,Dissipating Wave second normal attack (Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195474500,Special,Dissipating Wave third normal attack　(Phantom) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2738251077,Special,Dissipating Wave (Etoile) first normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2924000350,Special,Dissipating Wave (Etoile) second normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2029349838,Special,Dissipating Wave (Etoile) third normal attack (Form/Vades series) (Weapon Potential)
 拉維斯衝擊波,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
 拉維斯衝擊波,4139628288,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
 拉維斯衝擊波,4139628319,Special,Heavy Hammer PA Mysterious Conjurer (Lavis Cannon) (Weapon Potential),
+拉維斯衝擊波,1919700754,Special,Mysterious Conjurer (Etoile) (Lavis Cannon) (Weapon Potential)
 天雷の飛翔剣,2924634920,Special,Thundering Blades (Jupiter Tullus) (Weapon Potential),
+天雷の飛翔剣,2194522995,Special,Thundering Blades (Etoile) (Jupiter Tullus) (Weapon Potential)
 避跳飛刃,2311811561,Special,Elusive Blades (Bullet Kunai) (Weapon Potential),
 古の針散弾,2482321781,Special,Antique Shot (Spread Needle) (Weapon Potential),
 Antique Shot,3918796978,Special,Antique Shot (Phantom) (Spread Needle) (Weapon Potential),0
@@ -1310,7 +1324,14 @@ Torrential Dash,3333338057,Special,Torrential Dash (Dash collision) (RA Stinger)
 閃影の鎚撃,2547423209,Special,Luminecho Hammer (Acure Charis/Atus Charis) (Weapon Potential)
 閃影の弾撃,2255706962,Special,Luminecho Slug (Orgei Rancor) (Weapon Potential)
 閃影の斬撃,895846384,Special,Luminecho Guillotine (Orgei Malice) (Weapon Potential)
+閃影の斬撃,832000006,Special,Luminecho Guillotine (Orgei Malice) (Weapon Potential)
 変異の代償,3714671926,Special,Variating Redress (Genon series) (Weapon Potential)
+Golden Dragon's Eruption,4005133178,Special,Golden Dragon's Eruption (Sign Burn) (Weapon Potential)
+Byakko Accordant,1989470535,Special,Byakko Accordant (Shiho Byakko) (Weapon Potential)
+Soulbound Guillotine,895229155,Special,Soulbound Guillotine =100% HP (Corrupted Spear Epitemia) (Weapon Potential)
+Soulbound Guillotine,2876421265,Special,Soulbound Guillotine <100% HP (Corrupted Spear Epitemia) (Weapon Potential)
+S1: Reckless Strike,818692292,Special,S1: Reckless Strike (S-Class Special Ability)
+S4: Raising Pursuit,99411394,Special,S4: Raising Pursuit (S-Class Special Ability)
 ブーストキック,85301614,Special,Tokyo speed-pad kick level 1,
 ブーストキック,85302964,Special,Tokyo speed-pad kick level 2,
 ブーストキック,85303029,Special,Tokyo speed-pad kick level 3,
