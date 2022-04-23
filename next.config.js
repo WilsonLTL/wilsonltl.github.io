@@ -1,5 +1,11 @@
-const nextConfig = {
-    /* config options here */
-  }
-  
-export default nextConfig
+module.exports = {
+  async rewrites() {
+    return [
+      {
+        source: "/api/:path*",
+        destination: "https://api.json-generator.com/templates/:path*",
+        // destination: process.env.API,
+      },
+    ];
+  },
+};
