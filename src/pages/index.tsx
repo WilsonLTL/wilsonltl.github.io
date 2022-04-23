@@ -14,7 +14,7 @@ const Home = () => {
 
   return (
     <div className="flex flex-col">
-      <div className="flex flex-col w-screen h-screen items-center justify-between">
+      <div className="flex flex-col h-screen items-center justify-between">
         <p className="text-pink-400 text-base font-bold mt-8">An Engineer & A Photographer & An athlete</p>
         <img className="w-96 h-84" src="/assets/icon.png"/>
         <div className="mb-8">
@@ -25,7 +25,7 @@ const Home = () => {
           </Breadcrumbs>
         </div>
       </div>
-      <div id="about" className="flex lg:flex-row flex-col w-screen">
+      <div id="about" className="flex lg:flex-row flex-col">
         <div className="md:w-1/2 w-full flex flex-col bg-pink-400 items-center justify-between">
           <span></span>
           <img className="w-52 h-52" src="/assets/about.svg"/>
