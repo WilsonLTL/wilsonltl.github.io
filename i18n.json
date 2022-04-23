@@ -1,0 +1,7 @@
+{
+  "locales": ["zh-HK", "zh-TW", "en"],
+  "defaultLocale": "zh-HK",
+  "pages": {
+    "*": ["common"]
+  }
+}
