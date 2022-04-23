@@ -1,7 +1,5 @@
 // React
 import React from "react";
-// Nextjs
-import Image from "next/image";
 // Mui
 import { useTheme as UseTheme } from "@mui/material/styles";
 import {
@@ -49,7 +47,7 @@ const LoginDialogCompontent = ({ t, dispatch, loginDialog }) => {
             <AccordionDetails>
               <div className="flex flex-col space-y-4">
                 <Button onClick={() => onClickLoginListener(dispatch)} className="bg-white w-full space-x-2 shadow">
-                  <Image alt="" width={30} height={30} src="/assets/MetaMask_Fox.png"/>
+                  {/* <Image alt="" width={30} height={30} src="/assets/MetaMask_Fox.png"/> */}
                   <span className="text-black text-xs font-bold">MetaMask</span>
                 </Button>
                 {
