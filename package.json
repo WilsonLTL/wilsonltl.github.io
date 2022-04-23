@@ -39,7 +39,7 @@
     "js-sha512": "^0.8.0",
     "md5": "^2.3.0",
     "moment": "^2.29.1",
-    "next": "10.0.9",
+    "next": "12.1.0",
     "next-redux-wrapper": "^6.0.2",
     "next-session": "^3.4.0",
     "next-translate": "^1.0.6",
