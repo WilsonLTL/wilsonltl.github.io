@@ -1,0 +1,51 @@
+@font-face {
+  font-family: peachdays;
+  src: url(./fonts/peach_days/Peach Days.ttf);
+}
+
+@font-face {
+  font-family: septemberRain;
+  src: url(./fonts/September Rain.ttf);
+}
+
+@font-face {
+  font-family: sabilaRenytha;
+  src: url(./fonts/sabila_renytha/SabilaRenytha_PERSONAL_USE_ONLY.otf);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: .25em;
+  height: .25em
+}
+::-webkit-scrollbar-button {
+  background: #ccc
+}
+::-webkit-scrollbar-track-piece {
+  background: #ccc
+}
+::-webkit-scrollbar-thumb {
+  background: #888
+}
+
+.special-font {
+  font-family: peachdays !important;
+}
+
+.special-font2 {
+  font-family: sabilaRenytha !important;
+}

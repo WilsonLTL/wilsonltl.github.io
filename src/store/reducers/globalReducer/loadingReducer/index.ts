@@ -1,4 +1,4 @@
-import { PayloadAction } from "@reduxjs/toolkit";
+import type { PayloadAction } from "@reduxjs/toolkit";
 import { UPDATE_LOADING_STATUS } from "../../../actions/globalActions/loadingActions";
 import { loadingType } from "../../../types/globalType/loadingType";
 

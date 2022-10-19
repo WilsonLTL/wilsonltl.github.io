@@ -1,18 +1,14 @@
 // React
-import React from "react";
-// // Compontent
-import { LoginDialog }from "../dialog"
-import SnackBar from "../snackBar"
+import React, { ReactNode } from "react";
 
-const Layout = ({children}) => {
+interface Props {
+  children?: ReactNode;
+}
 
+function Layout({ children, ...props }: Props) {
   return (
-    <div className="h-screen">
-      <LoginDialog />
-      <SnackBar />
-      <div className="">
-        {children}
-      </div>
+    <div className="w-screen h-screen">
+      <div className="">{children}</div>
     </div>
   );
 }
