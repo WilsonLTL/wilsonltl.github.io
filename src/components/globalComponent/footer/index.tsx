@@ -1,5 +1,3 @@
-// NextJS
-import Image from "next/image";
 
 function footer() {
   return (
@@ -33,7 +31,7 @@ function footer() {
               target="_blank"
               rel="noreferrer"
             >
-              <Image
+              <img
                 width="24"
                 height="24"
                 src="/assets/social_twitter.png"
@@ -45,7 +43,7 @@ function footer() {
               target="_blank"
               rel="noreferrer"
             >
-              <Image
+              <img
                 width="24"
                 height="24"
                 src="/assets/social_ig.png"
@@ -57,7 +55,7 @@ function footer() {
               target="_blank"
               rel="noreferrer"
             >
-              <Image
+              <img
                 width="24"
                 height="24"
                 src="/assets/social_discord.png"
