@@ -62,7 +62,7 @@ const portfolo: NextPage = () => {
           className="flex items-center justify-center"
           key={(Math.random() + 1).toString(36).substring(7)}
         >
-          <div className="flex col-span-2 p-8 space-x-8">
+          <div className="flex col-span-2 p-8 py-8 space-x-8">
             <div className="flex items-end justify-center">
               <div className="flex flex-col items-center justify-center w-40 space-y-4 text-black">
                 <div className="flex">
@@ -74,9 +74,7 @@ const portfolo: NextPage = () => {
                       className="transition duration-300 ease-in-out delay-75 hover:text-yellow-400"
                       href="#"
                     >
-                      <span className="flex text-center">
-                        NVLPE Series Collection v2
-                      </span>
+                      <span className="flex text-center">2426c</span>
                     </a>
                   </span>
                   <span className="w-10 text-center">
@@ -115,7 +113,7 @@ const portfolo: NextPage = () => {
                       className="transition duration-300 ease-in-out delay-75 hover:text-yellow-400"
                       href="#"
                     >
-                      2樓後座
+                      Lofilians
                     </a>
                   </span>
                   <span className="w-10 text-center">
@@ -127,13 +125,13 @@ const portfolo: NextPage = () => {
                   Full Stack Development Lead
                 </span>
                 <img
-                  className="w-40 px-4 bg-black py-11"
-                  src="https://2fr-web.vercel.app/assets/intro/icon.svg"
+                  className="w-40 px-4 py-11"
+                  src="https://lofilians.com/assets/logo_black.png"
                 />
               </div>
             </div>
             <div className="flex items-end justify-center">
-              <img src="https://media-exp2.licdn.com/dms/image/C511BAQE6lwo-g2JXPw/company-background_10000/0/1583148449664?e=2147483647&v=beta&t=c9oFlbnNZoFHpb37o9vj4JPaKTW1-9LDloFZOEKxHrU" />
+              <img src="https://i.imgur.com/mevXb9W.jpg" />
             </div>
           </div>
         </SwiperSlide>
